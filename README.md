@@ -27,4 +27,6 @@ This server will be more of a simulation than anything as I don't have a real ga
 ## Credits
 inspired by: <a href="https://www.youtube.com/watch?v=qpu_iOGYC-g&ab_channel=TheVimeagen"> The Primeagen</a>
 
+Built and developed with my live reloader written in this <a href="https://github.com/MiniJ147/miniloader">repo</a>
+
 Note: this is subject to change and I am likely to add sqlc to the program inside of in memory storage. Also, the design between the Central Server and Game Server will change as I plan and develop this project further.
